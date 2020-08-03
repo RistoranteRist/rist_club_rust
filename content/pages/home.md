@@ -18,7 +18,7 @@ Rustの勉強会のページです。
 | 日程 | 内容 | 担当者 | 資料 |
 |--|:--:|:--|:--:|
 | 7/31 | 3章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch03-00-common-programming-concepts.html),[English](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html) | Okamoto | [3章](https://hackmd.io/@MrBearing/S1GXFFyWP) |
-| 8/7 | 4章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | 　Harayama |
+| 8/7 | 4章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Harayama |
 | 8/21 | 5章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Horikawa |
 | 8/28 | 6章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | salvatore |
 | / | 7章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
