@@ -21,7 +21,8 @@ Rustの勉強会のページです。
 | 8/7 | 4章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Harayama | [4章](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/SyJGzGB-w#/) |
 | 8/21 | 5章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Horikawa |
 | 8/28 | 6章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | salvatore |
-| / | 7章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
+| 9/4 | actix-web ハンズオン | Harayama |　|
+| 9/11 | 7章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Pradan |
 | / | 8章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
 <!-- | / | 9章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
 | / | 10章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
