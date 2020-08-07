@@ -11,8 +11,8 @@ path = "about"
 - [kazuharayama](https://github.com/kazuharayama)
 - [slabua](https://github.com/slabua)
 - [p](http://abcd.com)
-- [m](http://abcd.com)
-- [h](http://abcd.com) 
+- [yuyamatsuura](https://github.com/yuyamatsuura)
+- [Yuto Horikawa](https://github.com/hyrodium) 
 - [Takumi Okamoto](https://github.com/TakumiOkamotoRist/)
 
 
