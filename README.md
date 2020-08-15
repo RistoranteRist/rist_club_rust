@@ -5,4 +5,4 @@
 Rust勉強会の資料置き場
 
 
-公開ページは(こちら)[https://ristoranterist.github.io/rist_club_rust/]
+公開ページは[こちら](https://ristoranterist.github.io/rist_club_rust/)
