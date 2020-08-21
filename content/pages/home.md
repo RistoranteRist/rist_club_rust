@@ -18,15 +18,16 @@ Rustの勉強会のページです。
 | 日程 | 内容 | 担当者 | 資料 |
 |--|:--:|:--|:--:|
 | 7/31 | 3章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch03-00-common-programming-concepts.html),[English](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html) | Okamoto | [3章](https://hackmd.io/@MrBearing/S1GXFFyWP) |
-| 8/7 | 4章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Harayama | [4章](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/SyJGzGB-w#/) |
-| 8/21 | 5章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Horikawa |
-| 8/28 | 6章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | salvatore |
+| 8/7 | 4章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](| 8/7 | 4章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch04-00-understanding-ownership.html),[English](https://doc.rust-lang.org/book/https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html) | Harayama | [4章](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/SyJGzGB-w#/) |
+) | Harayama | [4章](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/SyJGzGB-w#/) |
+| 8/21 | 5章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch05-00-structs.html),[English](https://doc.rust-lang.org/book/ch05-00-structs.html) | Horikawa | [5章](https://hackmd.io/@hyrodium/rkZdbTqfv#/) | 
+| 8/28 | 6章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch06-00-enums.html),[English](https://doc.rust-lang.org/book/ch06-00-enums.html) | salvatore |
 | 9/4 | actix-web ハンズオン | Harayama |　|
 | 9/11 | 7章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Pradan |
-| / | 8章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
-<!-- | / | 9章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
+| 9/18 | 8章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
+| 9/25 | 9章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
 | / | 10章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
-| / | 12章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
+<!-- | / | 12章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
 | / | 13章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
 | / | 14章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
 | / | 15章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
