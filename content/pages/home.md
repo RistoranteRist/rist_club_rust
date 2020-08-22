@@ -23,8 +23,8 @@ Rustの勉強会のページです。
 | 8/28 | 6章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch06-00-enums.html),[English](https://doc.rust-lang.org/book/ch06-00-enums.html) | salvatore |
 | 9/4 | actix-web<br/>ハンズオン | Harayama |  |
 | 9/11 | 7章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Pradan |
-| 9/18 | 8章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
-| 9/25 | 9章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
+| 9/18 | 8章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Okamoto |
+| 9/25 | 9章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | salvatore |
 | / | 10章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
 <!-- | / | 12章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
 | / | 13章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |
