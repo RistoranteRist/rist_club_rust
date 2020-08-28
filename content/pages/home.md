@@ -20,7 +20,7 @@ Rustの勉強会のページです。
 | 7/31 | 3章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch03-00-common-programming-concepts.html),[English](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html) | Okamoto | [3章](https://hackmd.io/@MrBearing/S1GXFFyWP) |
 | 8/7 | 4章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html) | Harayama | [4章](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/SyJGzGB-w#/) |
 | 8/21 | 5章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch05-00-structs.html),[English](https://doc.rust-lang.org/book/ch05-00-structs.html) | Horikawa | [5章](https://hackmd.io/@hyrodium/rkZdbTqfv#/) | 
-| 8/28 | 6章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch06-00-enums.html),[English](https://doc.rust-lang.org/book/ch06-00-enums.html) | Salvatore |
+| 8/28 | 6章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch06-00-enums.html),[English](https://doc.rust-lang.org/book/ch06-00-enums.html) | Salvatore | [6章](https://hackmd.io/@slabua/rkemJ7GXP#/) |
 | 9/4 | actix-web<br/>ハンズオン | Harayama |  |
 | 9/11 | 7章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch07-00-modules.html),[English](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html) | Pradhan |  |
 | 9/18 | 8章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch08-00-common-collections.html),[English](https://doc.rust-lang.org/book/ch08-00-common-collections.html) | Okamoto |  |
