@@ -27,7 +27,7 @@ Rustの勉強会のページです。
 | 9/25 | 9章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch09-00-error-handling.html),[English](https://doc.rust-lang.org/book/ch09-00-error-handling.html) | Salvatore | [9章](https://hackmd.io/@slabua/rk19fcOHD#/) |
 | 10/2 | 10章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch10-00-generics.html),[English](https://doc.rust-lang.org/book/ch10-00-generics.html) | Harayama | [10章](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/ByjRowzUw#/) |
 | 10/9 | 11章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch11-00-testing.html),[English](https://doc.rust-lang.org/book/ch11-00-testing.html) | Horikawa | [11章](https://hackmd.io/@hyrodium/HJ-iV8oIw#/) |
-| 10/16 | 12章 (1-3) [日本語](https://doc.rust-jp.rs/book/second-edition/ch12-00-an-io-project.html),[English](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) | Salvatore |  |
+| 10/16 | 12章 (1-3) [日本語](https://doc.rust-jp.rs/book/second-edition/ch12-00-an-io-project.html),[English](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) | Salvatore | [12章](https://hackmd.io/@slabua/rkgTd4TUD#/) |
 | 10/23 | 12章 (4-6) [日本語](https://doc.rust-jp.rs/book/second-edition/ch12-00-an-io-project.html),[English](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) | Okamoto |  |
 | 10/30 | 13章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |  |
 <!-- 
