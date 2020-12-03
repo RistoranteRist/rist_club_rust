@@ -15,31 +15,31 @@ Rustの勉強会のページです。
 
 # 今後の予定
 
-| 日程 | 内容 | 担当者 | 資料 |
-|--|:--:|:--|:--:|
-| 7/31 | 3章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch03-00-common-programming-concepts.html),[English](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html) | Okamoto | [3章](https://hackmd.io/@MrBearing/S1GXFFyWP) |
-| 8/7 | 4章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html) | Harayama | [4章](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/SyJGzGB-w#/) |
-| 8/21 | 5章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch05-00-structs.html),[English](https://doc.rust-lang.org/book/ch05-00-structs.html) | Horikawa | [5章](https://hackmd.io/@hyrodium/rkZdbTqfv#/) | 
-| 8/28 | 6章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch06-00-enums.html),[English](https://doc.rust-lang.org/book/ch06-00-enums.html) | Salvatore | [6章](https://hackmd.io/@slabua/rkemJ7GXP#/) |
-| 9/4 | actix-web<br/>ハンズオン | Harayama | [資料](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/ryqEAJRXP#/) |
-| 9/11 | 7章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch07-00-modules.html),[English](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html) | Pradhan | [7章](https://hackmd.io/@YaLfaJPMSby70tZQh2Okzg/S19AimwEw) |
-| 9/18 | 8章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch08-00-common-collections.html),[English](https://doc.rust-lang.org/book/ch08-00-common-collections.html) | Okamoto | [8章](https://hackmd.io/@MrBearing/HJbnLv2VD) |
-| 9/25 | 9章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch09-00-error-handling.html),[English](https://doc.rust-lang.org/book/ch09-00-error-handling.html) | Salvatore | [9章](https://hackmd.io/@slabua/rk19fcOHD#/) |
-| 10/2 | 10章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch10-00-generics.html),[English](https://doc.rust-lang.org/book/ch10-00-generics.html) | Harayama | [10章](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/ByjRowzUw#/) |
-| 10/9 | 11章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch11-00-testing.html),[English](https://doc.rust-lang.org/book/ch11-00-testing.html) | Horikawa | [11章](https://hackmd.io/@hyrodium/HJ-iV8oIw#/) |
-| 10/16 | 12章 (1-3) [日本語](https://doc.rust-jp.rs/book/second-edition/ch12-00-an-io-project.html),[English](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) | Salvatore | [12章](https://hackmd.io/@slabua/rkgTd4TUD#/) |
-| 10/23 | 12章 (4-6) [日本語](https://doc.rust-jp.rs/book-ja/ch12-00-an-io-project.html),[English](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) | Okamoto | [12章](https://hackmd.io/@MrBearing/r1NeIW2Pv#/3) |
-| 10/30 | 13章 [日本語](https://doc.rust-jp.rs/book-ja/ch13-00-functional-features.html),[English](https://doc.rust-lang.org/book/ch13-00-functional-features.html) | Harayama | [13章](https://hackmd.io/@kazupsychocandy/Byha668_w#/) |
-| 11/6 | 14章 [日本語](https://doc.rust-jp.rs/book-ja/ch14-00-more-about-cargo.html),[English](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html) | Okamoto | [14章](https://hackmd.io/@MrBearing/BkwklbWFD#/1) |
-| 11/13 | 15章前半 [日本語](https://doc.rust-jp.rs/book-ja/ch15-00-smart-pointers.html),[English](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html) | Salvatore | [15章](https://hackmd.io/@slabua/BkJKWpDYD) |
-| 11/20 | 15章後半 [日本語](https://doc.rust-jp.rs/book-ja/ch15-00-smart-pointers.html),[English](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html) | Okamoto | [15章](https://hackmd.io/@MrBearing/rJAxK9Nqv#/) |
-| 11/27 | 16章 [日本語](https://doc.rust-jp.rs/book-ja/ch16-00-concurrency.html),[English](https://doc.rust-lang.org/book/h16-00-concurrency.html) | Harayama |  |
-| 12/4 | 17章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Okamoto |  |
-| 12/11 | 18章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Horikawa |  |
-| 12/18 | 19章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |  |
+| 回 | 日程 | 内容 | 担当者 | 資料 |
+|--|--|:--:|:--|:--:|
+| 1 | 7/31 | 3章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch03-00-common-programming-concepts.html),[English](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html) | Okamoto | [3章](https://hackmd.io/@MrBearing/S1GXFFyWP) |
+| 2 | 8/7 | 4章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html) | Harayama | [4章](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/SyJGzGB-w#/) |
+| 3 | 8/21 | 5章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch05-00-structs.html),[English](https://doc.rust-lang.org/book/ch05-00-structs.html) | Horikawa | [5章](https://hackmd.io/@hyrodium/rkZdbTqfv#/) | 
+| 4 | 8/28 | 6章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch06-00-enums.html),[English](https://doc.rust-lang.org/book/ch06-00-enums.html) | Salvatore | [6章](https://hackmd.io/@slabua/rkemJ7GXP#/) |
+| 5 | 9/4 | actix-web<br/>ハンズオン | Harayama | [資料](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/ryqEAJRXP#/) |
+| 6 | 9/11 | 7章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch07-00-modules.html),[English](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html) | Pradhan | [7章](https://hackmd.io/@YaLfaJPMSby70tZQh2Okzg/S19AimwEw) |
+| 7 | 9/18 | 8章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch08-00-common-collections.html),[English](https://doc.rust-lang.org/book/ch08-00-common-collections.html) | Okamoto | [8章](https://hackmd.io/@MrBearing/HJbnLv2VD) |
+| 8 | 9/25 | 9章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch09-00-error-handling.html),[English](https://doc.rust-lang.org/book/ch09-00-error-handling.html) | Salvatore | [9章](https://hackmd.io/@slabua/rk19fcOHD#/) |
+| 9 | 10/2 | 10章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch10-00-generics.html),[English](https://doc.rust-lang.org/book/ch10-00-generics.html) | Harayama | [10章](https://hackmd.io/@7V0FgVRPSqCmrS9Ivj0yXQ/ByjRowzUw#/) |
+| 10 | 10/9 | 11章 [日本語](https://doc.rust-jp.rs/book/second-edition/ch11-00-testing.html),[English](https://doc.rust-lang.org/book/ch11-00-testing.html) | Horikawa | [11章](https://hackmd.io/@hyrodium/HJ-iV8oIw#/) |
+| 11 | 10/16 | 12章 (1-3) [日本語](https://doc.rust-jp.rs/book/second-edition/ch12-00-an-io-project.html),[English](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) | Salvatore | [12章](https://hackmd.io/@slabua/rkgTd4TUD#/) |
+| 12 | 10/23 | 12章 (4-6) [日本語](https://doc.rust-jp.rs/book-ja/ch12-00-an-io-project.html),[English](https://doc.rust-lang.org/book/ch12-00-an-io-project.html) | Okamoto | [12章](https://hackmd.io/@MrBearing/r1NeIW2Pv#/3) |
+| 13 | 10/30 | 13章 [日本語](https://doc.rust-jp.rs/book-ja/ch13-00-functional-features.html),[English](https://doc.rust-lang.org/book/ch13-00-functional-features.html) | Harayama | [13章](https://hackmd.io/@kazupsychocandy/Byha668_w#/) |
+| 14 | 11/6 | 14章 [日本語](https://doc.rust-jp.rs/book-ja/ch14-00-more-about-cargo.html),[English](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html) | Okamoto | [14章](https://hackmd.io/@MrBearing/BkwklbWFD#/1) |
+| 15 | 11/13 | 15章前半 [日本語](https://doc.rust-jp.rs/book-ja/ch15-00-smart-pointers.html),[English](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html) | Salvatore | [15章](https://hackmd.io/@slabua/BkJKWpDYD) |
+| 16 | 11/20 | 15章後半 [日本語](https://doc.rust-jp.rs/book-ja/ch15-00-smart-pointers.html),[English](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html) | Okamoto | [15章](https://hackmd.io/@MrBearing/rJAxK9Nqv#/) |
+| 17 | 11/27 | 16章 [日本語](https://doc.rust-jp.rs/book-ja/ch16-00-concurrency.html),[English](https://doc.rust-lang.org/book/h16-00-concurrency.html) | Harayama |  |
+| 18 | 12/4 | 17章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Okamoto |  |
+| 19 | 12/11 | 18章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Horikawa |  |
+| 20 | 12/18 | 19章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |  |
 <!-- 
-| 1/ | 20章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |  |
-| 1/ | 21章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |    ||
+| 21 | 1/ | 20章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |  |
+| 22 | 1/ | 21章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |    ||
 -->
 
 
