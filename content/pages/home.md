@@ -38,7 +38,7 @@ Rustの勉強会のページです。
 | 19 | ~~12/11~~ 12/18 | 18章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Horikawa | [18](https://hackmd.io/@hyrodium/SJ6yUDQ2D) |
 | 20 | ~~12/18~~ 1/15 | 19章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Harayama | [19章](https://hackmd.io/@kazupsychocandy/HJsIgefAv#/) |
 | 21 | ~~12/18~~ 1/22 | 19章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Harayama | -- |
-| 22 | 1/ | 20章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Harayama | [20章]() |
+| 22 | 1/29 | 20章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Harayama | [20章]() |
 
 
 
