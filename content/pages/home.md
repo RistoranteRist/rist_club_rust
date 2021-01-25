@@ -35,12 +35,11 @@ Rustの勉強会のページです。
 | 16 | 11/20 | 15章後半 [日本語](https://doc.rust-jp.rs/book-ja/ch15-00-smart-pointers.html),[English](https://doc.rust-lang.org/book/ch15-00-smart-pointers.html) | Okamoto | [15章](https://hackmd.io/@MrBearing/rJAxK9Nqv#/) |
 | 17 | 11/27 | 16章 [日本語](https://doc.rust-jp.rs/book-ja/ch16-00-concurrency.html),[English](https://doc.rust-lang.org/book/h16-00-concurrency.html) | Harayama | [16章](https://hackmd.io/@kazupsychocandy/Hk9Kuyb9D#/) |
 | 18 | 12/4 | 17章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Okamoto | [17章](https://hackmd.io/@MrBearing/H1sFeBLiP) |
-| 19 | 12/11 | 18章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Horikawa |  |
-| 20 | 12/18 | 19章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Harayama |  |
-<!-- 
-| 21 | 1/ | 20章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |  |  |
-| 22 | 1/ | 21章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) |    ||
--->
+| 19 | ~~12/11~~ 12/18 | 18章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Horikawa | [18](https://hackmd.io/@hyrodium/SJ6yUDQ2D) |
+| 20 | ~~12/18~~ 1/15 | 19章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Harayama | [19章](https://hackmd.io/@kazupsychocandy/HJsIgefAv#/) |
+| 21 | ~~12/18~~ 1/22 | 19章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Harayama | -- |
+| 22 | 1/ | 20章 [日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) | Harayama | [20章]() |
+
 
 
 
