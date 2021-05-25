@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ristoranterist.github.io/rist_club_rust/sitemap.xml
