@@ -12,8 +12,9 @@ Rustの勉強会のページです。
 
 - The Rust ProgramingLanguage ([日本語](https://doc.rust-jp.rs/book/second-edition/),[English](https://doc.rust-lang.org/book/) )の輪読会
 - Rustを使った技術(actix-web,rosrust,組込等)のハンズオン(3~4回毎)を行います。
+- 2021年1月29日　輪読完了！
 
-# 今後の予定
+# 開催実績
 
 | 回 | 日程 | 内容 | 担当者 | 資料 |
 |--|--|:--:|:--|:--:|
